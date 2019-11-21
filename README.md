@@ -1,4 +1,3 @@
 # image-uploader
 Upload image to imgur.com and get link image back
-
-[Imgur](https://i.imgur.com/cdDhX8s.png)
+<img src="https://i.imgur.com/cdDhX8s.png" width="550" title="screenshot"/>
